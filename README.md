@@ -24,5 +24,5 @@ If you want to run or test this project on your local machine, follow these step
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/quantum-maze-escape.git](https://github.com/YOUR_USERNAME/quantum-maze-escape.git)
+   git clone [https://github.com/suhasi14/quantum-maze-escape.git](https://github.com/suhasi14/quantum-maze-escape.git)
    cd quantum-maze-escape
